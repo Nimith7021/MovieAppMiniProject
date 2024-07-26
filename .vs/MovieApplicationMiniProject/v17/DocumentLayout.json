@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\MovieApplicationMiniProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2F67CB-B352-4E02-8B3E-4DD15C15E267}|MovieManagement\\MovieManagement.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\movieapplicationminiproject\\moviemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2F67CB-B352-4E02-8B3E-4DD15C15E267}|MovieManagement\\MovieManagement.csproj|solutionrelative:moviemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484F52F7-9D55-4A2C-80D8-0A384BE7B08A}|MovieLibrary\\MovieLibrary.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\movieapplicationminiproject\\movielibrary\\services\\dataserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484F52F7-9D55-4A2C-80D8-0A384BE7B08A}|MovieLibrary\\MovieLibrary.csproj|solutionrelative:movielibrary\\services\\dataserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484F52F7-9D55-4A2C-80D8-0A384BE7B08A}|MovieLibrary\\MovieLibrary.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\movieapplicationminiproject\\movielibrary\\repository\\moviemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484F52F7-9D55-4A2C-80D8-0A384BE7B08A}|MovieLibrary\\MovieLibrary.csproj|solutionrelative:movielibrary\\repository\\moviemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2F67CB-B352-4E02-8B3E-4DD15C15E267}|MovieManagement\\MovieManagement.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\movieapplicationminiproject\\moviemanagement\\controllers\\moviestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2F67CB-B352-4E02-8B3E-4DD15C15E267}|MovieManagement\\MovieManagement.csproj|solutionrelative:moviemanagement\\controllers\\moviestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484F52F7-9D55-4A2C-80D8-0A384BE7B08A}|MovieLibrary\\MovieLibrary.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\movieapplicationminiproject\\movielibrary\\assets\\mymovie.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{484F52F7-9D55-4A2C-80D8-0A384BE7B08A}|MovieLibrary\\MovieLibrary.csproj|solutionrelative:movielibrary\\assets\\mymovie.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484F52F7-9D55-4A2C-80D8-0A384BE7B08A}|MovieLibrary\\MovieLibrary.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\movieapplicationminiproject\\movielibrary\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484F52F7-9D55-4A2C-80D8-0A384BE7B08A}|MovieLibrary\\MovieLibrary.csproj|solutionrelative:movielibrary\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484F52F7-9D55-4A2C-80D8-0A384BE7B08A}|MovieLibrary\\MovieLibrary.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\movieapplicationminiproject\\movielibrary\\exceptions\\capacityfullexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484F52F7-9D55-4A2C-80D8-0A384BE7B08A}|MovieLibrary\\MovieLibrary.csproj|solutionrelative:movielibrary\\exceptions\\capacityfullexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484F52F7-9D55-4A2C-80D8-0A384BE7B08A}|MovieLibrary\\MovieLibrary.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\movieapplicationminiproject\\movielibrary\\exceptions\\moviestoreemptyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484F52F7-9D55-4A2C-80D8-0A384BE7B08A}|MovieLibrary\\MovieLibrary.csproj|solutionrelative:movielibrary\\exceptions\\moviestoreemptyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484F52F7-9D55-4A2C-80D8-0A384BE7B08A}|MovieLibrary\\MovieLibrary.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\movieapplicationminiproject\\movielibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484F52F7-9D55-4A2C-80D8-0A384BE7B08A}|MovieLibrary\\MovieLibrary.csproj|solutionrelative:movielibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484F52F7-9D55-4A2C-80D8-0A384BE7B08A}|MovieLibrary\\MovieLibrary.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\movieapplicationminiproject\\movielibrary\\exceptions\\movienotinrangeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484F52F7-9D55-4A2C-80D8-0A384BE7B08A}|MovieLibrary\\MovieLibrary.csproj|solutionrelative:movielibrary\\exceptions\\movienotinrangeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484F52F7-9D55-4A2C-80D8-0A384BE7B08A}|MovieLibrary\\MovieLibrary.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\movieapplicationminiproject\\movielibrary\\exceptions\\movienotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484F52F7-9D55-4A2C-80D8-0A384BE7B08A}|MovieLibrary\\MovieLibrary.csproj|solutionrelative:movielibrary\\exceptions\\movienotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484F52F7-9D55-4A2C-80D8-0A384BE7B08A}|MovieLibrary\\MovieLibrary.csproj|c:\\users\\nimith.shetty\\desktop\\aproscm\\movieapplicationminiproject\\movielibrary\\exceptions\\movienamelengthexceedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484F52F7-9D55-4A2C-80D8-0A384BE7B08A}|MovieLibrary\\MovieLibrary.csproj|solutionrelative:movielibrary\\exceptions\\movienamelengthexceedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieStore.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\MovieApplicationMiniProject\\MovieManagement\\Controllers\\MovieStore.cs",
+              "RelativeDocumentMoniker": "MovieManagement\\Controllers\\MovieStore.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\MovieApplicationMiniProject\\MovieManagement\\Controllers\\MovieStore.cs",
+              "RelativeToolTip": "MovieManagement\\Controllers\\MovieStore.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAqwA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T11:16:52.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MovieStoreEmptyException.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\MovieApplicationMiniProject\\MovieLibrary\\Exceptions\\MovieStoreEmptyException.cs",
+              "RelativeDocumentMoniker": "MovieLibrary\\Exceptions\\MovieStoreEmptyException.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\MovieApplicationMiniProject\\MovieLibrary\\Exceptions\\MovieStoreEmptyException.cs",
+              "RelativeToolTip": "MovieLibrary\\Exceptions\\MovieStoreEmptyException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T11:13:30.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\MovieApplicationMiniProject\\MovieManagement\\Program.cs",
+              "RelativeDocumentMoniker": "MovieManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\MovieApplicationMiniProject\\MovieManagement\\Program.cs",
+              "RelativeToolTip": "MovieManagement\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T11:16:32.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\MovieApplicationMiniProject\\MovieLibrary\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "MovieLibrary\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\MovieApplicationMiniProject\\MovieLibrary\\Models\\Movie.cs",
+              "RelativeToolTip": "MovieLibrary\\Models\\Movie.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwCAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T11:13:45.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataSerializer.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\MovieApplicationMiniProject\\MovieLibrary\\Services\\DataSerializer.cs",
+              "RelativeDocumentMoniker": "MovieLibrary\\Services\\DataSerializer.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\MovieApplicationMiniProject\\MovieLibrary\\Services\\DataSerializer.cs",
+              "RelativeToolTip": "MovieLibrary\\Services\\DataSerializer.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAIAxwBgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T11:14:35.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovieManager.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\MovieApplicationMiniProject\\MovieLibrary\\Repository\\MovieManager.cs",
+              "RelativeDocumentMoniker": "MovieLibrary\\Repository\\MovieManager.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\MovieApplicationMiniProject\\MovieLibrary\\Repository\\MovieManager.cs",
+              "RelativeToolTip": "MovieLibrary\\Repository\\MovieManager.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAASwBEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T11:14:03.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "myMovie.json",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\MovieApplicationMiniProject\\MovieLibrary\\Assets\\myMovie.json",
+              "RelativeDocumentMoniker": "MovieLibrary\\Assets\\myMovie.json",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\MovieApplicationMiniProject\\MovieLibrary\\Assets\\myMovie.json",
+              "RelativeToolTip": "MovieLibrary\\Assets\\myMovie.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-25T11:21:18.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CapacityFullException.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\MovieApplicationMiniProject\\MovieLibrary\\Exceptions\\CapacityFullException.cs",
+              "RelativeDocumentMoniker": "MovieLibrary\\Exceptions\\CapacityFullException.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\MovieApplicationMiniProject\\MovieLibrary\\Exceptions\\CapacityFullException.cs",
+              "RelativeToolTip": "MovieLibrary\\Exceptions\\CapacityFullException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T11:12:18.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MovieNotInRangeException.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\MovieApplicationMiniProject\\MovieLibrary\\Exceptions\\MovieNotInRangeException.cs",
+              "RelativeDocumentMoniker": "MovieLibrary\\Exceptions\\MovieNotInRangeException.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\MovieApplicationMiniProject\\MovieLibrary\\Exceptions\\MovieNotInRangeException.cs",
+              "RelativeToolTip": "MovieLibrary\\Exceptions\\MovieNotInRangeException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T11:13:20.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\MovieApplicationMiniProject\\MovieLibrary\\Class1.cs",
+              "RelativeDocumentMoniker": "MovieLibrary\\Class1.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\MovieApplicationMiniProject\\MovieLibrary\\Class1.cs",
+              "RelativeToolTip": "MovieLibrary\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T11:11:09.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MovieNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\MovieApplicationMiniProject\\MovieLibrary\\Exceptions\\MovieNotFoundException.cs",
+              "RelativeDocumentMoniker": "MovieLibrary\\Exceptions\\MovieNotFoundException.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\MovieApplicationMiniProject\\MovieLibrary\\Exceptions\\MovieNotFoundException.cs",
+              "RelativeToolTip": "MovieLibrary\\Exceptions\\MovieNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T11:13:07.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MovieNameLengthExceedException.cs",
+              "DocumentMoniker": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\MovieApplicationMiniProject\\MovieLibrary\\Exceptions\\MovieNameLengthExceedException.cs",
+              "RelativeDocumentMoniker": "MovieLibrary\\Exceptions\\MovieNameLengthExceedException.cs",
+              "ToolTip": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\MovieApplicationMiniProject\\MovieLibrary\\Exceptions\\MovieNameLengthExceedException.cs",
+              "RelativeToolTip": "MovieLibrary\\Exceptions\\MovieNameLengthExceedException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T11:12:55.625Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
